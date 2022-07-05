@@ -1,12 +1,12 @@
 ## Best practices, standards and libraries for:
 - Privacy-first networking
-  * End-to-end encryption with Noise_XK on Secp256k1 curves
-  * Leveraging TOR and other networks (I2P, Nym WIP)
-- Simplify building of P2P networks – standalone or on top of Lightning network
+  * End-to-end encryption with Noise_XK on SECP256K1 curve
+  * Leveraging mix networks (Tor today; I2P, Nym are WIP)
+- Simplify building P2P networks – standalone or on top of Lightning network
 - Doing distributed architectures in scalable and robust way
   * Microservice-based
   * Non-blocking services; async clients
-  * Shared-nothing
+  * Shared-nothing multithreading
   * Both mobile-ready/embeddable and cloud-ready with enterprise scaliability level
 
 ## Building blocks:
