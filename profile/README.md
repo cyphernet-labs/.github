@@ -11,8 +11,8 @@
 
 ## Contributors & supporters
 
-* [LNP/BP Standards Association](/LNP-BP)
-* [Pandora Prime](/pandora-prime)
-* [Nym Technologies](/nymtech)
-* [Radicle](/radicle-dev)
-* [Farcaster](/farcaster-project)
+* [LNP/BP Standards Association](https://github.com/LNP-BP)
+* [Pandora Prime](https://github.com/pandora-prime)
+* [Radicle](https://github.com/radicle-dev)
+* [Farcaster](https://github.com/farcaster-project)
+* [Nym Technologies](https://github.com/nymtech)
