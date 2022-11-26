@@ -8,3 +8,7 @@
   * Non-blocking concurent programming
   * Shared-nothing multithreading
   * Both mobile-ready/embeddable and cloud-ready with enterprise scaliability level
+
+## Contributors & supporters
+
+@Pandora-Prime @NymTech @Radicle-Dev @Farcaster-Project
