@@ -15,4 +15,3 @@
 - APIs: RPC-based binary schema-based messages with TLV extensions
 - Networking: pure TCP or with ZeroMQ
 - Addresses supporting TCP/IP, ZeroMQ, identities and encryption
-- Extensions: via service buses build with microservices library or using AluVM virtual machine
