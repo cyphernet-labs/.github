@@ -1,13 +1,14 @@
-## Best practices, standards and libraries for:
-- Privacy-first networking
-  * End-to-end encryption with Noise framework protocols
-  * Leveraging mix networks (Tor, Nym, I2P)
-- Simplify building P2P networks
+Tools & ibraries for privacy-first network apps
+
+* End-to-end encryption with Noise framework and other modern encryption protocols
+* Mix networks (Tor, Nym, I2P)
+* Self-sovereign identities
+* Tools for building P2P nodes
 
 ## Contributors & supporters
 
-* [LNP/BP Standards Association](https://github.com/LNP-BP)
-* [Pandora Prime](https://github.com/pandora-prime)
-* [Radicle](https://github.com/radicle-dev)
-* [Farcaster](https://github.com/farcaster-project)
-* [Nym Technologies](https://github.com/nymtech)
+**[Radicle](https://github.com/radicle-dev)** |
+**[Pandora Prime](https://github.com/pandora-prime)** | 
+**[Nym Technologies](https://github.com/nymtech)** |
+**[Farcaster](https://github.com/farcaster-project)** |
+**[LNP/BP Standards Association](https://github.com/LNP-BP)**
