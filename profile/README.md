@@ -1,3 +1,6 @@
+**This is a mirror for https://app.radicle.xyz/nodes/seed.cyphernet.io.
+All contributions must happen there.**
+
 Tools & ibraries for privacy-first network apps
 
 * End-to-end encryption with Noise framework and other modern encryption protocols
